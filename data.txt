@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2,
+    "name": "Olena",
+    "age": 30,
+    "email": "olena@example.com",
+    "city": "Lviv"
+  },
+  {
+    "id": 3,
+    "name": "Petro",
+    "age": 28,
+    "email": "petro@example.com",
+    "city": "Odessa"
+  },
+  {
+    "id": 4,
+    "name": "Anna",
+    "age": 22,
+    "email": "anna@example.com",
+    "city": "Kharkiv"
+  },
+  {
+    "id": 5,
+    "name": "Mykola",
+    "age": 35,
+    "email": "mykola@example.com",
+    "city": "Dnipro"
+  },
+  {
+    "id": 6,
+    "name": "Alex"
+  }
+]
